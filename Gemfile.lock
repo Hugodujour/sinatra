@@ -64,6 +64,7 @@ DEPENDENCIES
   colorize
   csv
   pry
+  rack
   rspec
   rubocop
   sinatra
